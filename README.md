@@ -1,12 +1,6 @@
 # RC-production-
 
 
-## Quality Criteria
-## Percentage of product functionality implemented.
-## Percentage of all functions and features implemented.
-## Percentage of features and functions with known defects and gaps.
-## Quality level for sustained production use : how long the product can be used without encountering a defect, how many users can access the system at the same time before a performance impact?
-
 
 
 
@@ -25,6 +19,12 @@
 ### Status : Green
 
 
+
+### Quality Criteria
+### Percentage of product functionality implemented.
+### Percentage of all functions and features implemented.
+### Percentage of features and functions with known defects and gaps.
+### Quality level for sustained production use : how long the product can be used without encountering a defect, how many users can access the system at the same time before a performance impact?
 
 
 
