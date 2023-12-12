@@ -21,10 +21,10 @@
 
 
 ### Quality Criteria:
-### Percentage of product functionality implemented.
-### Percentage of all functions and features implemented.
-### Percentage of features and functions with known defects and gaps.
-### Quality level for sustained production use : how long the product can be used without encountering a defect, how many users can access the system at the same time before a performance impact?
+### Percentage of product functionality implemented - 100%
+### Percentage of all functions and features implemented. - 100%
+### Percentage of features and functions with known defects and gaps - 5%
+### Quality level for sustained production use : how long the product can be used without encountering a defect, how many users can access the system at the same time before a performance impact? - 90%
 
 
 
@@ -36,20 +36,23 @@
 
 ### Architecute of the APP:
 
-<img width="577" alt="Screenshot 2023-12-12 at 12 47 16 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/a89f7d6d-bb8a-4a35-979b-c29fd736c5cf">
+#### <img width="577" alt="Screenshot 2023-12-12 at 12 47 16 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/a89f7d6d-bb8a-4a35-979b-c29fd736c5cf">
 
 
 ### Customer Feed Back FORM : 
-https://docs.google.com/spreadsheets/d/16EU2TG4fug060cmS3YxbmtgFlBEUaBqqddBqyN3SmjM/edit#gid=0
+#### https://docs.google.com/spreadsheets/d/16EU2TG4fug060cmS3YxbmtgFlBEUaBqqddBqyN3SmjM/edit#gid=0
 
 <img width="1443" alt="Screenshot 2023-12-12 at 12 55 27 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/f021aac9-df16-480c-a4c6-a4a0f2d417c8">
 
 ### Customer feedback video :
 
-https://www.canva.com/design/DAF0QyRuzuc/h8ObQWiE4r5jZrULgU-Lfw/view?utm_content=DAF0QyRuzuc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+#### https://www.canva.com/design/DAF0QyRuzuc/h8ObQWiE4r5jZrULgU-Lfw/view?utm_content=DAF0QyRuzuc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-12 th slide in the Presentation 
+<img width="766" alt="Screenshot 2023-12-12 at 1 11 53 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/46ab4097-ad84-4b17-9bee-a33d3d7982a4">
 
+#### 12 th slide in the Presentation 
+
+####  Presentation Video 
 
 
 
