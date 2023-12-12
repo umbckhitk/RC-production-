@@ -18,7 +18,7 @@
 
 
 
-## Capstone Beta 
+## Capstone RC 
 # Harish Krishna Krishnamoorthy
 # so73977@umbc.edu
 
@@ -41,14 +41,7 @@
 
 
 
-### Proposal Accepted date : Oct 19
-### Date: 11-18-2023
-### Status: Alpha
-### Percentage of product functionality implemented: 100%
-### Percentage of critical functions and features implemented: 100%
-### Scope of improvements : yes 
-### Percentage of features and functions with known defects and gaps: 30%
-### Quality level for non-production use: The website can be used for a reasonable amount of time without crashing or failing, and it can handle a reasonable number of users. However, there are some known defects and gaps that need to be addressed before the website is ready for production use.
+
 ## Completed features:
 
 
