@@ -26,7 +26,12 @@
 ### Percentage of features and functions with known defects and gaps - 5%
 ### Quality level for sustained production use : how long the product can be used without encountering a defect, how many users can access the system at the same time before a performance impact? - 90%
 
+### Deployment Infomation: 
+Deployed in AWS 
 
+<img width="1470" alt="Screenshot 2023-12-12 at 1 15 04 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/8dbfcee1-2b8f-4853-9ad4-64756748d60c">
+
+<img width="806" alt="Screenshot 2023-12-12 at 1 15 46 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/58a4785f-cae1-4c9a-a6d0-4eb96e054b88">
 
 
 # Public URL : 
@@ -105,15 +110,6 @@
 ## 13.Amazing mobile viewable and responsive .
 <img width="1470" alt="Screenshot 2023-11-18 at 6 52 14 PM" src="https://github.com/umbckhitk/capstonebeta-production/assets/105472386/ddfdd8fe-fcfd-430f-bf91-95b32c3f1e52">
 
-## Known defects and gaps:
-Improvisation of adding new features like messaging or emailing systems that lets people know. Expecting in the next iteration. 
-Deployment over heroku (paid) isnt working, but deployment in client server is working good. 
-
-
-## Next steps:
-Testing the app from someone from the church and get feedback 
-Testing the app with more user base. 
-Deployment  of the app in the user base. 
 
 
 ## Overall, the donation website is in a good state for beta checkpoint. The most critical functions and features are implemented and completed, and the website is stable and reliable enough to be used by internal testers or early adopters. 
