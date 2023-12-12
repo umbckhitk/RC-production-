@@ -63,6 +63,27 @@ Deployed in AWS
 
 
 
+https://youtu.be/MaluH_xn9Pk
+
+If the clarity of the Youtube isn't good :
+
+I did presentation in Phone because of the user base are mostly in phone 
+The demo actually starts after 5 min where I share my phone screen. 
+
+https://drive.google.com/file/d/1kXHBbgNzC8FVswY3Ffz0sgsJzGcxJ3M3/view?usp=sharing
+
+Only the demo video:
+
+https://drive.google.com/file/d/10ah_rnTZ4P9eKNbLMsN9G3agqvWVZW4a/view?usp=sharing
+
+<img width="1420" alt="Screenshot 2023-12-12 at 3 20 31 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/48c953b3-a45a-4011-aea6-3363d7cc1123">
+<img width="1431" alt="Screenshot 2023-12-12 at 3 20 10 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/64f5e41c-7520-4d58-884e-89104d0a0256">
+<img width="1437" alt="Screenshot 2023-12-12 at 3 19 51 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/35884035-69b9-4d43-80b3-6432764c25f6">
+<img width="1431" alt="Screenshot 2023-12-12 at 3 20 10 PM 2" src="https://github.com/umbckhitk/RC-production-/assets/105472386/286b47c5-b894-46ba-b004-ad7c7c51c213">
+<img width="1188" alt="Screenshot 2023-12-12 at 3 21 35 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/62eb3d43-0133-4d26-8fdd-c4f088443709">
+<img width="1158" alt="Screenshot 2023-12-12 at 3 21 10 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/3450b6c0-51c8-423f-8929-56866617ff35">
+
+
 
 
 ## Completed features:
