@@ -1,4 +1,4 @@
-# RC-production-
+# RC-production
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-### Quality Criteria
+### Quality Criteria:
 ### Percentage of product functionality implemented.
 ### Percentage of all functions and features implemented.
 ### Percentage of features and functions with known defects and gaps.
