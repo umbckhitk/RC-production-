@@ -26,10 +26,12 @@
 ### Percentage of features and functions with known defects and gaps - 5%
 ### Quality level for sustained production use : how long the product can be used without encountering a defect, how many users can access the system at the same time before a performance impact? - 90%
 
-### Deployment Infomation: 
+##  Deployment Infomation: 
 Deployed in AWS 
 
 <img width="1470" alt="Screenshot 2023-12-12 at 1 15 04 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/8dbfcee1-2b8f-4853-9ad4-64756748d60c">
+
+## The Website link or IPV4 public url information: 
 
 <img width="806" alt="Screenshot 2023-12-12 at 1 15 46 PM" src="https://github.com/umbckhitk/RC-production-/assets/105472386/58a4785f-cae1-4c9a-a6d0-4eb96e054b88">
 
